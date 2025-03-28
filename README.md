@@ -54,8 +54,8 @@
 ###
 
 <h5 align="left">Simple Coffee Listing</h5>
-<div align="center">
-  <img height="200" src="https://csyxkpbavpcrhwqhcpyy.supabase.co/storage/v1/object/public/challenges/45/challenge-45-thumbnail"  />
+<div align="left">
+  <img height="400" src="https://csyxkpbavpcrhwqhcpyy.supabase.co/storage/v1/object/public/challenges/45/challenge-45-thumbnail"  />
 </div>
 <div align="left">
   <a href="https://github.com/JulioCz36/simple-coffee-FD" target="_blank">
@@ -76,13 +76,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=JulioCz36&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="115" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JulioCz36&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="115" alt="languages graph"  />
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JulioCz36/JulioCz36/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JulioCz36/JulioCz36/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JulioCz36/JulioCz36/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
