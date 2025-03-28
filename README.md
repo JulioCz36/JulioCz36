@@ -56,7 +56,7 @@
  <div align="left">
      <h5 align="left">Simple Coffee Listing</h5>
     <div align="left">
-      <img height="400" src="https://csyxkpbavpcrhwqhcpyy.supabase.co/storage/v1/object/public/challenges/45/challenge-45-thumbnail"  />
+      <img height="200" src="https://csyxkpbavpcrhwqhcpyy.supabase.co/storage/v1/object/public/challenges/45/challenge-45-thumbnail"  />
     </div>
     <div align="left">
       <a href="https://github.com/JulioCz36/simple-coffee-FD" target="_blank">
