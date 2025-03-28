@@ -76,6 +76,18 @@
         </a>
       </div>
     </td>
+    <td align="center" valign="top">
+      <h5>Music Player</h5>
+      <img height="200" src="https://csyxkpbavpcrhwqhcpyy.supabase.co/storage/v1/object/public/challenges/36/challenge-36-thumbnail" />
+      <div>
+        <a href="https://github.com/JulioCz36/music-player-JS" target="_blank">
+          <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" height="25" alt="github logo" />
+        </a>
+        <a href="https://music-player-jss-s.netlify.app" target="_blank">
+          <img src="https://img.shields.io/static/v1?message=Demo&label=&color=D14836&labelColor=&style=for-the-badge" height="25" />
+        </a>
+      </div>
+    </td>
   </tr>
 </table> 
 
