@@ -67,7 +67,7 @@
       </a>
     </div>
   </div>
-  <div align="right">
+  <div align="center">
      <h5 align="left">QR code generator</h5>
     <div align="left">
       <img height="200" src="https://csyxkpbavpcrhwqhcpyy.supabase.co/storage/v1/object/public/challenges/41/challenge-41-thumbnail"  />
