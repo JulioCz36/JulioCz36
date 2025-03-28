@@ -52,37 +52,35 @@
 <h1 align="left">Some projects</h1>
 
 ###
-<div align="center">
- <div align="left">
-     <h5 align="left">Simple Coffee Listing</h5>
-    <div align="left">
-      <img height="200" src="https://csyxkpbavpcrhwqhcpyy.supabase.co/storage/v1/object/public/challenges/45/challenge-45-thumbnail"  />
-    </div>
-    <div align="left">
-      <a href="https://github.com/JulioCz36/simple-coffee-FD" target="_blank">
-        <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" height="25" alt="github logo"  />
-      </a>
-      <a href="https://simple-coffee-fd.netlify.app/" target="_blank">
-        <img src="https://img.shields.io/static/v1?message=Demo&label=&color=D14836&labelColor=&style=for-the-badge" height="25"/>
-      </a>
-    </div>
-  </div>
-  <div align="center">
-     <h5 align="left">QR code generator</h5>
-    <div align="left">
-      <img height="200" src="https://csyxkpbavpcrhwqhcpyy.supabase.co/storage/v1/object/public/challenges/41/challenge-41-thumbnail"  />
-    </div>
-    <div align="left">
-      <a href="https://github.com/JulioCz36/QR-Code-Generator-JS" target="_blank">
-        <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" height="25" alt="github logo"  />
-      </a>
-      <a href="https://qr-code-generator-jss.netlify.app" target="_blank">
-        <img src="https://img.shields.io/static/v1?message=Demo&label=&color=D14836&labelColor=&style=for-the-badge" height="25"/>
-      </a>
-    </div>
-  </div>
-</div>
 
+<table>
+  <tr>
+    <td align="center" valign="top">
+      <h5>Simple Coffee Listing</h5>
+      <img height="200" src="https://csyxkpbavpcrhwqhcpyy.supabase.co/storage/v1/object/public/challenges/45/challenge-45-thumbnail" />
+      <div>
+        <a href="https://github.com/JulioCz36/simple-coffee-FD" target="_blank">
+          <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" height="25" alt="github logo" />
+        </a>
+        <a href="https://simple-coffee-fd.netlify.app/" target="_blank">
+          <img src="https://img.shields.io/static/v1?message=Demo&label=&color=D14836&labelColor=&style=for-the-badge" height="25" />
+        </a>
+      </div>
+    </td>
+    <td align="center" valign="top">
+      <h5>QR Code Generator</h5>
+      <img height="200" src="https://csyxkpbavpcrhwqhcpyy.supabase.co/storage/v1/object/public/challenges/41/challenge-41-thumbnail" />
+      <div>
+        <a href="https://github.com/JulioCz36/QR-Code-Generator-JS" target="_blank">
+          <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" height="25" alt="github logo" />
+        </a>
+        <a href="https://qr-code-generator-jss.netlify.app" target="_blank">
+          <img src="https://img.shields.io/static/v1?message=Demo&label=&color=D14836&labelColor=&style=for-the-badge" height="25" />
+        </a>
+      </div>
+    </td>
+  </tr>
+</table> 
 
 ###
 
