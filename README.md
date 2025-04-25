@@ -20,7 +20,8 @@
 
 ###
 
-<p align="left">- 💻 Web App Developer<br>- 📚 I'm currently learning video game development<br>- ⚡ In my spare time, I develop web apps</p>
+<p align="left">- 💻 Web & Game Dev<br>- 📚 Engineering Student + Tech. in Video Games<br>- ⚡ In my spare time, I develop web apps
+- 🚀Coding since 03/16/22</p>
 
 ###
 
