@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">- 💻 Web & Game Dev<br>- 📚 Engineering Student + Tech. in Video Games<br>- ⚡ In my spare time, I develop web apps
+<p align="left">- 💻 Web & Game Dev<br>- 📚 Engineering Student + Tech. in Video Games<br>- ⚡ In my spare time, I develop web apps<br>
 - 🚀Coding since 03/16/22</p>
 
 ###
