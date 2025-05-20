@@ -12,16 +12,21 @@
 
 ###
 
-<h1 align="center">Hello, I'm JulioCz👋</h1>
+<h1 align="center">🎮 Hey! I'm JulioCz</h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👾 About Me</h3>
 
 ###
 
-<p align="left">- 💻 Web & Game Dev<br>- 📚 Engineering Student + Tech. in Video Games<br>- ⚡ In my spare time, I develop web apps<br>
-- 🚀Coding since 03/16/22</p>
+<p align="left">
+- 🕹️ Game Developer focused on 2D games with C++  
+- 📚 Engineering student + Technical Degree in Video Game Development  
+- ⚙️ I work mainly with SFML and Box2D  
+- 🚀 Coding games since 2022  
+- ✨ Passionate about gameplay mechanics, physics and creative programming  
+</p>
 
 ###
 
@@ -47,7 +52,7 @@
 
 ###
 
-<h1 align="left">Some projects</h1>
+<h1 align="left">🚀 Featured Game Projects</h1>
 
 ###
 
