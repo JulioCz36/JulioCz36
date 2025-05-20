@@ -44,7 +44,7 @@
 <div align="center">
    <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Box2D_logo.png/320px-Box2D_logo.png" height="40" alt="box2d logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Box2D_logo.svg/123px-Box2D_logo.svg.png" height="40" alt="box2d logo" />
   <img src="https://www.sfml-dev.org/download/goodies/sfml-icon-mini.png" height="40" alt="sfml logo" />
 </div>
 
