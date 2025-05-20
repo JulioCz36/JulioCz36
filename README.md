@@ -21,10 +21,14 @@
 ###
 
 <p align="left">
-- 🕹️ Game Developer focused on 2D games with C++  
-- 📚 Engineering student + Technical Degree in Video Game Development  
-- ⚙️ I work mainly with SFML and Box2D  
-- 🚀 Coding games since 2022  
+- 🕹️ Game Developer focused on 2D games with C++
+  <br>
+- 📚 Engineering student + Technical Degree in Video Game Development
+  <br>
+- ⚙️ I work mainly with SFML and Box2D
+  <br>
+- 🚀 Coding games since 2022
+  <br>
 - ✨ Passionate about gameplay mechanics, physics and creative programming  
 </p>
 
@@ -43,11 +47,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
 </div>
 
 ###
