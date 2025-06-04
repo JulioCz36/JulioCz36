@@ -69,13 +69,13 @@
 <table>
   <tr>
     <td align="center" valign="top">
-      <h5>Simple Coffee Listing</h5>
-      <img height="200" src="https://csyxkpbavpcrhwqhcpyy.supabase.co/storage/v1/object/public/challenges/45/challenge-45-thumbnail" />
+      <h5>Trabajo Práctico Nº 1 | Programación de Videojuegos I</h5>
+      <img height="200" src="https://img.youtube.com/vi/hfRFodu96G0/0.jpg" />
       <div>
-        <a href="https://github.com/JulioCz36/simple-coffee-FD" target="_blank">
+        <a href="[https://github.com/JulioCz36/TP-N1-Part2-ProgrVJ-I" target="_blank">
           <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" height="25" alt="github logo" />
         </a>
-        <a href="https://simple-coffee-fd.netlify.app/" target="_blank">
+        <a href="https://www.youtube.com/watch?v=hfRFodu96G0" target="_blank">
           <img src="https://img.shields.io/static/v1?message=Demo&label=&color=D14836&labelColor=&style=for-the-badge" height="25" />
         </a>
       </div>
