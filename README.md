@@ -30,8 +30,6 @@ I have experience creating games with object-oriented programming, data structur
   <br>
   <br>
 I firmly believe in the value of rapid prototyping and constant learning. I like to experiment, improve, and always strive to ensure that the player feels that every detail is designed to entertain or surprise.
-<br>
-<br>
 
 📌 I'm currently open to opportunities as a Junior or Trainee Game Developer (Argentina, GMT-3) and eager to join teams that value creativity, collaboration, and continuous 
 <br>
