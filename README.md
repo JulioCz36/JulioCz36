@@ -21,15 +21,24 @@
 ###
 
 <p align="left">
-- 🕹️ Game Developer focused on 2D games with C++
+🎮 Game Developer in training, creating playable experiences from design to programming and art.
   <br>
-- 📚 Engineering student + Technical Degree in Video Game Development
+I'm currently studying Computer Science Engineering and Video Game Design and Programming. I'm passionate about bringing ideas to life, programming game mechanics, enemy
   <br>
-- ⚙️ I work mainly with SFML and Box2D
+systems, interfaces, and animations.
+<br>
+I have experience creating games with object-oriented programming, data structures, and gameplay logic. I also enjoy designing and pixelating assets that complement the
   <br>
-- 🚀 Coding since 03/16/22
+gameplay, achieving a coherent visual identity for each project.
+<br>
+I firmly believe in the value of rapid prototyping and constant learning. I like to experiment, improve, and always strive to ensure that the player feels that every detail
   <br>
-- ✨ Passionate about gameplay mechanics, physics and creative programming  
+is designed to entertain or surprise.
+<br>
+
+📌 I'm currently open to opportunities as a Junior or Trainee Game Developer (Argentina, GMT-3) and eager to join teams that value creativity, collaboration, and continuous 
+<br>
+growth.
 </p>
 
 ###
