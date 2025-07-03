@@ -23,17 +23,18 @@
 <p align="left">
 🎮 Game Developer in training, creating playable experiences from design to programming and art.
   <br>
-I'm currently studying Computer Science Engineering and Video Game Design and Programming. I'm passionate about bringing ideas to life, programming game mechanics, enemy
+I'm currently studying Computer Science Engineering and Video Game Design and Programming. 
   <br>
-systems, interfaces, and animations.
+I'm passionate about bringing ideas to life, programming game mechanics, enemy systems, interfaces, and animations.
 <br>
-I have experience creating games with object-oriented programming, data structures, and gameplay logic. I also enjoy designing and pixelating assets that complement the
+I have experience creating games with object-oriented programming, data structures, and gameplay logic.
   <br>
-gameplay, achieving a coherent visual identity for each project.
+I also enjoy designing and pixelating assets that complement the gameplay, achieving a coherent visual identity for each project.
 <br>
-I firmly believe in the value of rapid prototyping and constant learning. I like to experiment, improve, and always strive to ensure that the player feels that every detail
+I firmly believe in the value of rapid prototyping and constant learning. 
   <br>
-is designed to entertain or surprise.
+I like to experiment, improve, and always strive to ensure that the player feels that every detail is designed to entertain or surprise.
+<br>
 <br>
 
 📌 I'm currently open to opportunities as a Junior or Trainee Game Developer (Argentina, GMT-3) and eager to join teams that value creativity, collaboration, and continuous 
