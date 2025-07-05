@@ -42,17 +42,10 @@ I firmly believe in the value of rapid prototyping and constant learning. I like
 
 ###
 
-<style>
-  .icon {
-    width: 30px;
-    height: 30px;
-  }
-</style>
-
 <div align="center">
-  <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"alt="cplusplus logo" />
-  <img class="icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Box2D_logo.svg/123px-Box2D_logo.svg.png" alt="box2d logo" />
-  <img class="icon" src="https://www.sfml-dev.org/download/goodies/sfml-icon-mini.png"alt="sfml logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30" height="30" alt="cplusplus logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Box2D_logo.svg/123px-Box2D_logo.svg.png" width="30" height="30" alt="box2d logo" />
+  <img src="https://www.sfml-dev.org/download/goodies/sfml-icon-mini.png" width="30" height="30" alt="sfml logo" />
 </div>
 
 <br>
