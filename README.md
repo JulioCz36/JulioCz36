@@ -51,11 +51,11 @@ I firmly believe in the value of rapid prototyping and constant learning. I like
 <br>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"width="30" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" height="30"" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30"" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" height="30" />
 </div>
 
 ###
@@ -73,7 +73,7 @@ I firmly believe in the value of rapid prototyping and constant learning. I like
       <img height="200" src="https://img.youtube.com/vi/hfRFodu96G0/0.jpg" />
       <div>
         <a href="https://github.com/JulioCz36/TP1-Part2-ProgrVJ-I" target="_blank">
-          <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" height="25" alt="github logo" />
+          <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" width="25" height="25" alt="github logo" />
         </a>
         <a href="https://www.youtube.com/watch?v=hfRFodu96G0" target="_blank">
           <img src="https://img.shields.io/static/v1?message=Demo&label=&color=D14836&labelColor=&style=for-the-badge" height="25" />
@@ -85,7 +85,7 @@ I firmly believe in the value of rapid prototyping and constant learning. I like
       <img height="200" src="https://img.youtube.com/vi/468tXj5txqs/0.jpg" />
       <div>
         <a href="https://github.com/JulioCz36/TP2-ProgrVJ-I" target="_blank">
-          <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" height="25" alt="github logo" />
+          <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" width="25" height="25" alt="github logo" />
         </a>
         <a href="https://www.youtube.com/watch?v=468tXj5txqs" target="_blank">
           <img src="https://img.shields.io/static/v1?message=Demo&label=&color=D14836&labelColor=&style=for-the-badge" height="25" />
@@ -97,7 +97,7 @@ I firmly believe in the value of rapid prototyping and constant learning. I like
       <img height="200" src="https://csyxkpbavpcrhwqhcpyy.supabase.co/storage/v1/object/public/challenges/36/challenge-36-thumbnail" />
       <div>
         <a href="https://github.com/JulioCz36/music-player-JS" target="_blank">
-          <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" height="25" alt="github logo" />
+          <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" width="25" height="25" alt="github logo" />
         </a>
         <a href="https://music-player-jss-s.netlify.app" target="_blank">
           <img src="https://img.shields.io/static/v1?message=Demo&label=&color=D14836&labelColor=&style=for-the-badge" height="25" />
