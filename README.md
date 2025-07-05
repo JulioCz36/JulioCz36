@@ -69,7 +69,7 @@ I firmly believe in the value of rapid prototyping and constant learning. I like
 <table>
   <tr>
     <td align="center" valign="top">
-      <h5>Trabajo Práctico Nº 1 | Programación de Videojuegos I</h5>
+      <h5>Blocks in Order</h5>
       <img height="200" src="https://img.youtube.com/vi/hfRFodu96G0/0.jpg" />
       <div>
         <a href="https://github.com/JulioCz36/TP1-Part2-ProgrVJ-I" target="_blank">
@@ -78,10 +78,13 @@ I firmly believe in the value of rapid prototyping and constant learning. I like
         <a href="https://www.youtube.com/watch?v=hfRFodu96G0" target="_blank">
           <img src="https://img.shields.io/static/v1?message=Demo&label=&color=D14836&labelColor=&style=for-the-badge" height="25" />
         </a>
+        <a href="https://juliocz36.itch.io/blocks-in-order" target="_blank">
+          <img src="https://img.shields.io/static/v1?message=Download&label=&color=9146FF&labelColor=&style=for-the-badge" height="25" />
+        </a>  
       </div>
     </td>
     <td align="center" valign="top">
-      <h5>Trabajo Práctico Nº 2 | Programación de Videojuegos I</h5>
+      <h5>TPlatformer with Stacks and Queues</h5>
       <img height="200" src="https://img.youtube.com/vi/468tXj5txqs/0.jpg" />
       <div>
         <a href="https://github.com/JulioCz36/TP2-ProgrVJ-I" target="_blank">
@@ -90,6 +93,9 @@ I firmly believe in the value of rapid prototyping and constant learning. I like
         <a href="https://www.youtube.com/watch?v=468tXj5txqs" target="_blank">
           <img src="https://img.shields.io/static/v1?message=Demo&label=&color=D14836&labelColor=&style=for-the-badge" height="25" />
         </a>
+        <a href="https://juliocz36.itch.io/platformer-stacks-queues" target="_blank">
+          <img src="https://img.shields.io/static/v1?message=Download&label=&color=9146FF&labelColor=&style=for-the-badge" height="25" />
+        </a>  
       </div>
     </td>
     <td align="center" valign="top">
@@ -111,7 +117,6 @@ I firmly believe in the value of rapid prototyping and constant learning. I like
 
 <h3 align="left">🔥   My Stats :</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JulioCz36&show_icons=true&theme=dracula&hide_border=true" height="130" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulioCz36&layout=compact&theme=dracula&hide_border=true" height="130" />
 </div>
 
