@@ -42,12 +42,17 @@ I firmly believe in the value of rapid prototyping and constant learning. I like
 
 ###
 
+<style>
+  .icon {
+    width: 30px;
+    height: 30px;
+  }
+</style>
+
 <div align="center">
-   <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Box2D_logo.svg/123px-Box2D_logo.svg.png" height="40" alt="box2d logo" />
-  <img src="https://www.sfml-dev.org/download/goodies/sfml-icon-mini.png" height="40" alt="sfml logo" />
+  <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"alt="cplusplus logo" />
+  <img class="icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Box2D_logo.svg/123px-Box2D_logo.svg.png" alt="box2d logo" />
+  <img class="icon" src="https://www.sfml-dev.org/download/goodies/sfml-icon-mini.png"alt="sfml logo" />
 </div>
 
 <br>
@@ -116,5 +121,6 @@ I firmly believe in the value of rapid prototyping and constant learning. I like
   <img src="https://github-readme-stats.vercel.app/api?username=JulioCz36&show_icons=true&theme=dracula&hide_border=true" height="130" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulioCz36&layout=compact&theme=dracula&hide_border=true" height="130" />
 </div>
+
 ###
 
