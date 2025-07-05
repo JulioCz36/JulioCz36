@@ -43,10 +43,9 @@ I firmly believe in the value of rapid prototyping and constant learning. I like
 ###
 
 <div align="center">
-   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Box2D_logo.svg/123px-Box2D_logo.svg.png" height="40" alt="box2d logo" />
-  <img src="https://www.sfml-dev.org/download/goodies/sfml-icon-mini.png" height="40" alt="sfml logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Box2D_logo.svg/123px-Box2D_logo.svg.png" height="30" alt="box2d logo" />
+  <img src="https://www.sfml-dev.org/download/goodies/sfml-icon-mini.png" height="30" alt="sfml logo" />
 </div>
 
 <br>
@@ -58,6 +57,7 @@ I firmly believe in the value of rapid prototyping and constant learning. I like
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" />
 </div>
+
 
 ###
 
