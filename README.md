@@ -12,7 +12,7 @@
 
 ###
 
-<h1 align="center">🎮 Hey! I'm JulioCz</h1>
+<h1 align="center">🎮 Hey! I'm JulioCz — Aspiring Game Developer & Programmer</h1>
 
 ###
 
@@ -70,7 +70,7 @@ I firmly believe in the value of rapid prototyping and constant learning. I like
 <table>
   <tr>
     <td align="center" valign="top">
-      <h5>Trabajo Práctico Nº 1 | Programación de Videojuegos I</h5>
+      <h5>Blocks in Order</h5>
       <img height="200" src="https://img.youtube.com/vi/hfRFodu96G0/0.jpg" />
       <div>
         <a href="https://github.com/JulioCz36/TP1-Part2-ProgrVJ-I" target="_blank">
@@ -82,7 +82,7 @@ I firmly believe in the value of rapid prototyping and constant learning. I like
       </div>
     </td>
     <td align="center" valign="top">
-      <h5>Trabajo Práctico Nº 2 | Programación de Videojuegos I</h5>
+       <h5>Platformer with Stacks and Queues</h5>
       <img height="200" src="https://img.youtube.com/vi/468tXj5txqs/0.jpg" />
       <div>
         <a href="https://github.com/JulioCz36/TP2-ProgrVJ-I" target="_blank">
