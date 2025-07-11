@@ -84,7 +84,7 @@ I firmly believe in the value of rapid prototyping and constant learning. I like
       </div>
     </td>
     <td align="center" valign="top">
-      <h5>TPlatformer with Stacks and Queues</h5>
+      <h5>Platformer with Stacks and Queues</h5>
       <img height="200" src="https://img.itch.zone/aW1nLzIyMDA1ODgxLnBuZw==/315x250%23c/oJdEQk.png" />
       <div>
         <a href="https://github.com/JulioCz36/TP2-ProgrVJ-I" target="_blank">
