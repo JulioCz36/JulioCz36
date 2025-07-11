@@ -70,7 +70,7 @@ I firmly believe in the value of rapid prototyping and constant learning. I like
   <tr>
     <td align="center" valign="top">
       <h5>Blocks in Order</h5>
-      <img height="200" src="https://img.youtube.com/vi/hfRFodu96G0/0.jpg" />
+      <img height="200" src="https://img.itch.zone/aW1nLzIyMDEwMTA2LnBuZw==/315x250%23c/U6YwXF.png" />
       <div>
         <a href="https://github.com/JulioCz36/TP1-Part2-ProgrVJ-I" target="_blank">
           <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" width="25" height="25" alt="github logo" />
@@ -85,7 +85,7 @@ I firmly believe in the value of rapid prototyping and constant learning. I like
     </td>
     <td align="center" valign="top">
       <h5>TPlatformer with Stacks and Queues</h5>
-      <img height="200" src="https://img.youtube.com/vi/468tXj5txqs/0.jpg" />
+      <img height="200" src="https://img.itch.zone/aW1nLzIyMDA1ODgxLnBuZw==/315x250%23c/oJdEQk.png" />
       <div>
         <a href="https://github.com/JulioCz36/TP2-ProgrVJ-I" target="_blank">
           <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" width="25" height="25" alt="github logo" />
