@@ -29,7 +29,6 @@ Today, I continue my journey in Unity, learning and growing in 2D and 3D develop
 I use Krita and Pixelorama to give visual style to my projects.
 
 On this page I share my projects and experiments — each one part of my learning and passion for building worlds.
-Always open to learning and collaborating!
 </p>
 
 ###
