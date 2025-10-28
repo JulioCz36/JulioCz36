@@ -12,25 +12,24 @@
 
 ###
 
-<h1 align="center">🎮 Hey! I'm JulioCz</h1>
+<h1 align="center">Hi, I'm Julio — Game Developer in training</h1>
 
 ###
 
-<h3 align="left">👾 About Me</h3>
+<h3 align="left">About Me</h3>
 
 ###
 
 <p align="left">
-🎮 Game Developer in training, creating playable experiences from design to programming and art.
+  I'm on the path of video game development.
+I started programming in C++, exploring the logic, physics, and systems that bring a game to life.
 
-I'm currently studying Computer Science Engineering and Video Game Design and Programming. I'm passionate about bringing ideas to life, programming game mechanics, enemy systems, interfaces, and animations.
+Today, I continue my journey in Unity, learning and growing in 2D and 3D development.
 
-I have experience creating games with object-oriented programming, data structures, and gameplay logic. I also enjoy designing and pixelating assets that complement the gameplay, achieving a coherent visual identity for each project.
-  
-I firmly believe in the value of rapid prototyping and constant learning. I like to experiment, improve, and always strive to ensure that the player feels that every detail is designed to entertain or surprise.
+I use Krita and Pixelorama to give visual style to my projects.
 
-📌 I'm currently open to opportunities as a Junior or Trainee Game Developer (Argentina, GMT-3) and eager to join teams that value creativity, collaboration, and continuous growth.
-
+On this page I share my projects and experiments — each one part of my learning and passion for building worlds.
+Always open to learning and collaborating!
 </p>
 
 ###
